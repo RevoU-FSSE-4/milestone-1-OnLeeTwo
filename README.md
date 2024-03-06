@@ -145,5 +145,3 @@ Self explanatory.
   ![Responsive added](https://imagizer.imageshack.com/img922/8306/i6Zod4.png)
 
   ![Responsive code](https://imagizer.imageshack.com/img922/996/Xq2tIp.png)
-
-Since this is only a checkpoint, I don't thinker with any JS and no to little CSS formating for first submission. But I will explain what I'm going to do with all the assets (and maybe adding them if I can) and all the purpose of my pages.
